@@ -22,11 +22,11 @@ A socio-technical research project, developed while undertaking BA Politics & So
 - ggplot2
 
 ## Key Findings
-- When looking at identification as British or English, 66.2% of people who identified as English voted to leave the EU, whilst 64.4% of people who identified as British voted to remain in the EU. 
+- Overall, the results suggest that there is a significant relationship between national identity and voting to leave/stay in the EU, this remains true when controlling the independent variables.
 
 ## Impact
 - Highlighted differences across demographic groups for identification as British or English.
-- Identified core themes related to demographics and EU Referendum vote such as; age, education, party identification and immigration concern.
+- Identified correlated features related to demographics and EU Referendum vote such as; age, education, party identification and immigration concern.
 
 ## Reproducibility
 - All analysis scripts are provided in this repository. The workflow is fully reproducible using the listed R packages.
